@@ -66,6 +66,6 @@ In summary, a shopping Android application using Java and SQLite would typically
    - Generate a signed APK (Android Package Kit) file for distribution.
    - Publish the APK to the Google Play Store or other app marketplaces, following their guidelines and policies.
 
-# Remember to follow best practices for coding, user experience design, and security when developing the application. It's also recommended to use libraries like Retrofit for API integration, Picasso or Glide for image loading, and RecyclerView for efficient list display.
+* Remember to follow best practices for coding, user experience design, and security when developing the application. It's also recommended to use libraries like Retrofit for API integration, Picasso or Glide for image loading, and RecyclerView for efficient list display.
 
-# Note: This is a high-level overview of the steps involved in developing a shopping Android application using Java and SQLite. The actual implementation may vary based on your specific requirements and design choices.
+* Note: This is a high-level overview of the steps involved in developing a shopping Android application using Java and SQLite. The actual implementation may vary based on your specific requirements and design choices.
