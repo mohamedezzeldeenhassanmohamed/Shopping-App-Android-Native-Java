@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="price_del"><strike>150$</strike></string>
+    <string-array name="number">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="Language">
+        <item>English (US)</item>
+        <item>English (UK)</item>
+        <item>French (France)</item>
+        <item>Spanish (Spain)</item>
+        <item>Italian</item>
+    </string-array>
+
+    <string-array name="languageAlias">
+        <item>"en-US"</item>
+        <item>"en-GB"</item>
+        <item>"fr-FR"</item>
+        <item>"es-ES"</item>
+        <item>"it-IT"</item>
+    </string-array>
+
+</resources>

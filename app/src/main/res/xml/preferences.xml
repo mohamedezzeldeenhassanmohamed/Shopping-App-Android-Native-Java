@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="Screen">
+
+        <SwitchPreference
+            android:key="dark_mood_screen"
+            android:title="Dark Mood"
+            android:defaultValue="false"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="App">
+
+        <CheckBoxPreference
+            android:key="app_like"
+            android:title="Did you like the app" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Message">
+
+        <EditTextPreference
+            android:key="app_message"
+            android:title="Enter Your Message" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Language">
+
+        <ListPreference
+            android:key="app_language"
+            android:entries="@array/Language"
+            android:entryValues="@array/languageAlias"/>
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>
